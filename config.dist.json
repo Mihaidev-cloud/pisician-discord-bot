@@ -1,0 +1,6 @@
+{
+    "token": "thetokenofbot",
+    "clientId": "theidofbot",
+    "guildId": "theidoftheserver",
+    "tenorApiKey": "YOUR_TENOR_API_KEY"
+}
